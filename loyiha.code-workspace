@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../loyiha"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "loyiha_bootsrap"
+	}
+}

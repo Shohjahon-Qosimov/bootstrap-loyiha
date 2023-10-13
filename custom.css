@@ -1,0 +1,143 @@
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+/* Navigation menu */
+.nav-brand {
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 14px;
+    padding: 10px 10px;
+}
+
+/* Home menu */
+.home {
+    background-color: #F0F5F9;
+    padding: 150px 0 100px 0;
+}
+.home__item {
+    font-size: 36px;
+    font-weight: 800;
+    color: #3a3a47;
+    line-height: 1.2;
+    margin-top: 20px;
+}
+.new {
+    margin-top: 15px;
+    margin-right: 10px;
+    border: 2px solid;
+    font-weight: 500;
+}
+
+/* About */
+.about__item {
+    font-size: 18px;
+    font-weight: 600;
+    color: #21bf73;
+    line-height: 1.2;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.about__item-1 {
+    font-size: 34px;
+    font-weight: 800;
+    color: #383B61;
+    line-height: 1.2;
+    margin-top: 15px;
+}
+
+.about__card-1 {
+    background-color: #FFF2E5;
+}
+.about__card-2 {
+    background-color: #F8F9FA;
+}
+.about__card-3 {
+    background-color: #F0F5F9;
+}
+
+.about__card-image {
+    width: 80px;
+}
+
+/* Features */
+.features__container {
+    background-color: #F0F5F9;
+}
+.features__item {
+    padding: 100px 50px 50px 50px;
+}
+.features__item-1 {
+    font-weight: 800;
+}
+
+/* Results */
+.results {
+    padding: 75px 0;
+    background: #FFFFFF;
+}
+.result__item {
+    font-size: 18px;
+    font-weight: 600;
+    color: #3498db;
+    line-height: 1.3;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+.result__item-1 {
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.result__image {
+    width: 80px;
+    padding-bottom: 10px;
+}
+.percentage {
+    font-weight: 700;
+}
+
+/* Reviews */
+.reviews__container {
+    padding: 75px 50px;
+    background-color: #F0F5F9;
+}
+
+/* Pricing */
+.pricing {
+    padding: 75px 0;
+}
+.pricing__card {
+    background-color: #f0f5f9;
+}
+.pricing__item {
+    font-size: 12px;
+    font-weight: 500;
+    color: #505050;
+}
+.card-title {
+    font-weight: 600;
+}
+
+/* footer */
+.footer {
+    background-color: #F0F5F9;
+}
+.footer__image {
+    padding-right: 20px;
+    width: 24px;
+    align-items: center;
+}
+
+/* Fonts */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat'
+}
